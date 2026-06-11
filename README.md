@@ -23,17 +23,17 @@ Beyond engineering, my background as a military combat commander and independent
 
 ## Core Projects
 
-### Full Assembler Implementation (C / x86)
+### [Assembly Software Development x86-64](https://github.com/Sachah33/Assembler-Project)
 * Developed a multi-pass assembler from scratch engineered to translate custom assembly source code into machine binary code.
 * Implemented complex macro parsing, robust lexical analysis routines, custom symbol tables, and strict dynamic memory allocation controls to prevent leaks.
 * *Keywords:* C, Systems Programming, Compiler Design, Memory Management
 
-### Low-Level Operating Systems Modules (C / xv6)
+### [Low-Level System & Operating Systems Projects (C / xv6)](https://github.com/Sachah33/XV6-OS-Extensions)
 * Programmed system-level architectures inside the xv6 kernel, focusing on custom Memory and File Management subsystems.
 * Designed and integrated process scheduling enhancements and dynamic resource allocation schemes aimed at maximizing CPU efficiency and minimizing turnaround time.
 * *Keywords:* C, OS Kernel, xv6, CPU Scheduling
 
-### Data Mining & Automation Frameworks (Python)
+### [NASA Asteroid Data Analysis & Visualization Pipeline (Python)](https://github.com/Sachah33/NASA-Asteroid-Analysis)
 * Built highly optimized scripts and automation frameworks designed to process large data sets and execute clean algorithmic implementations.
 * Engineered backend workflows to automate manual pipeline steps and integrate API-driven data extraction.
 * *Keywords:* Python, Data Automation, Algorithms
