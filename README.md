@@ -31,7 +31,7 @@ Beyond engineering, my background as a military combat commander and independent
 ### Low-Level Operating Systems Modules (C / xv6)
 * Programmed system-level architectures inside the xv6 kernel, focusing on custom Memory and File Management subsystems.
 * Designed and integrated process scheduling enhancements and dynamic resource allocation schemes aimed at maximizing CPU efficiency and minimizing turnaround time.
-* *Keywords:* C, OS Kernel, xv6, Concurrency, CPU Scheduling
+* *Keywords:* C, OS Kernel, xv6, CPU Scheduling
 
 ### Data Mining & Automation Frameworks (Python)
 * Built highly optimized scripts and automation frameworks designed to process large data sets and execute clean algorithmic implementations.
